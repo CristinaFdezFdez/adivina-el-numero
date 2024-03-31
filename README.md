@@ -30,6 +30,7 @@ Este script PHP es un juego simple en el que el usuario debe adivinar un número
 
 - PHP: Para la lógica del juego y la interacción con el servidor.
 - HTML y CSS: Para la estructura y el diseño de la página web.
+
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> </a>
@@ -45,11 +46,8 @@ Este script PHP es un juego simple en el que el usuario debe adivinar un número
 Puedes jugar a este juego en línea aquí: [Adivina el Número](https://cristinafernandezfernandez.000webhostapp.com/adivina_numero/index.php)
 
 ## Capturas de Pantalla
-
-![WhatsApp Image 2024-03-31 at 12 48 32 PM (2)](https://github.com/CristinaFdezFdez/adivina-el-numero/assets/155740893/40c3c568-b360-4e30-a4b2-39954d8c6c31)
-![WhatsApp Image 2024-03-31 at 12 48 32 PM](https://github.com/CristinaFdezFdez/adivina-el-numero/assets/155740893/9d914248-8e8f-4a9a-81fb-ea8a799c293a)
-![WhatsApp Image 2024-03-31 at 12 48 32 PM (1)](https://github.com/CristinaFdezFdez/adivina-el-numero/assets/155740893/4c8c4749-45a1-4461-b0b9-1517527a2404)
-
+![image](https://github.com/CristinaFdezFdez/adivina-el-numero/assets/155740893/d4566545-78d5-46cc-9406-49c1c212b2a0)
+![image](https://github.com/CristinaFdezFdez/adivina-el-numero/assets/155740893/fc77b80d-d563-42b4-a6d8-ef7b3bfb6514)
 
 ## Créditos
 
