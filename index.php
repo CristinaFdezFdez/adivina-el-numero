@@ -61,7 +61,7 @@ error_reporting(E_ERROR | E_PARSE);
     ?>
 
     <form action="index.php" method="post">
-        <label for="numero">Introduce un número: </label>
+        <label for="numero">Introduce un número: </label> <br> <br>
         <input type="number" name="numero" min="1" max="100" id="numero" required autofocus>
         <input type="submit" value="Aceptar">
         <input type="hidden" name="numeroMisterioso" value="<?= $numeroMisterioso ?>">
