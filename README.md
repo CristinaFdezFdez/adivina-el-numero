@@ -47,8 +47,9 @@ Este script PHP es un juego simple en el que el usuario debe adivinar un número
 Puedes jugar a este juego en línea aquí: [Adivina el Número](https://cristinafernandezfernandez.000webhostapp.com/adivina_numero/index.php)
 
 ## Capturas de Pantalla
-![image](https://github.com/CristinaFdezFdez/adivina-el-numero/assets/155740893/d4566545-78d5-46cc-9406-49c1c212b2a0)
-![image](https://github.com/CristinaFdezFdez/adivina-el-numero/assets/155740893/fc77b80d-d563-42b4-a6d8-ef7b3bfb6514)
+
+![Captura de pantalla 2024-07-31 231333](https://github.com/user-attachments/assets/37ba66da-2c0c-4759-8c26-ebf0847f10e0)
+
 
 ## Créditos
 
